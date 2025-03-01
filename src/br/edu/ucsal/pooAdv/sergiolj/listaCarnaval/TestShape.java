@@ -1,3 +1,5 @@
+package br.edu.ucsal.pooAdv.sergiolj.listaCarnaval;
+
 import br.edu.ucsal.pooAdv.sergiolj.listaCarnaval.models.Circle;
 import br.edu.ucsal.pooAdv.sergiolj.listaCarnaval.models.Rectangle;
 import br.edu.ucsal.pooAdv.sergiolj.listaCarnaval.models.Shape;

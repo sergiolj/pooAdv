@@ -1,3 +1,5 @@
+package br.edu.ucsal.pooAdv.sergiolj.listaCarnaval;
+
 import br.edu.ucsal.pooAdv.sergiolj.listaCarnaval.models.Airplane;
 import br.edu.ucsal.pooAdv.sergiolj.listaCarnaval.models.Bird;
 import br.edu.ucsal.pooAdv.sergiolj.listaCarnaval.myInterface.Flyer;

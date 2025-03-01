@@ -1,3 +1,5 @@
+package br.edu.ucsal.pooAdv.sergiolj.listaCarnaval;
+
 import br.edu.ucsal.pooAdv.sergiolj.listaCarnaval.models.Employee;
 import br.edu.ucsal.pooAdv.sergiolj.listaCarnaval.models.Manager;
 import br.edu.ucsal.pooAdv.sergiolj.listaCarnaval.models.Salesman;

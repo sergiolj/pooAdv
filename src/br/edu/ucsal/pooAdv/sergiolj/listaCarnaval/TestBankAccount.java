@@ -1,3 +1,5 @@
+package br.edu.ucsal.pooAdv.sergiolj.listaCarnaval;
+
 import br.edu.ucsal.pooAdv.sergiolj.listaCarnaval.models.BankAccount;
 import br.edu.ucsal.pooAdv.sergiolj.listaCarnaval.models.Client;
 

@@ -1,3 +1,5 @@
+package br.edu.ucsal.pooAdv.sergiolj.listaCarnaval;
+
 import br.edu.ucsal.pooAdv.sergiolj.listaCarnaval.models.Dog;
 
 public class TestAnimal{
@@ -7,7 +9,7 @@ public class TestAnimal{
 
         System.out.println("O atributo name com o modificador protected \n" +
                 "na classe Animal nao pode ser acessado diretamente porque a \n" +
-                "classe TestAnimal esta em outro pacote e nao estende a classe Animal \n");
+                "classe br.edu.ucsal.pooAdv.sergiolj.listaCarnaval.TestAnimal esta em outro pacote e nao estende a classe Animal \n");
 
         //dog.name = "Rex"; //Não compila
         //String oldName = dog.name; //Não compila
